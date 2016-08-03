@@ -1,0 +1,7 @@
+"Q3_5","TripPurpose"
+"1","Work"
+"2","Home"
+"3","Shopping or meal"
+"4","School"
+"5","Job-Related business"
+"6","Personal trip, sightseeing, or recreation"

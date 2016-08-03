@@ -1,0 +1,8 @@
+"q5","Destination Purpose"
+,"Unknown"
+"1","Work"
+"2","Home"
+"3","Shopping or Meal"
+"4","School"
+"5","Job-Related Business"
+"6","Personal Trip, Sightseeing, Recreation"
