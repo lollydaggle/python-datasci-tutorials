@@ -7,6 +7,7 @@ List of data science related tutorials in Python that I've been working through.
 | Translating SQL to pandas. And back.      | SQL, Pandas | [@grjreda](https://github.com/gjreda/pydata2014nyc) |
 | Counting the innocent stops by the NYPD     | Read/Write CSVs, MatplotLib      |   [@dannguyen](http://www.compjour.org/warmups/stops-and-frisks/counting-innocent-nypd-stops/) |
 | Intro to NLP | NLP, Text Processing, BeautifulSoup    | [@DistrictDataLabs](https://github.com/DistrictDataLabs/intro-to-nltk) |
+| Python Beginner's Night - 8/3 | Foundations   | [@WomenWhoCodeDC](https://www.meetup.com/Women-Who-Code-DC/events/227387925/?comment_table_id=247069658&comment_table_name=reply) |
 
 
 # mini-project-workbooks
