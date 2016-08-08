@@ -15,3 +15,4 @@ List of data science related tutorials in Python that I've been working through.
 | Project       | Subject         | Link  |
 | :------------- |:-------------| :-----|
 | Analyzing My Bus - 2014-2015 Metrobus Ridership Survey     | SQL, Pandas | [Analysis](https://github.com/lollydaggle/python-datasci-tutorials/tree/master/16y-bus-wmata-analysis), [Data](http://planitmetro.com/2015/10/26/three-tidbits-what-the-metrobus-2014-survey-can-tell-us/#more-11567)|
+| Vocabulary Analysis of Rilo Kiley Albums     | Pandas, Spotipy, Genius API | [Analysis](https://github.com/lollydaggle/python-datasci-tutorials/tree/master/rk-sentiment-analysis)|
